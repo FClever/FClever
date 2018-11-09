@@ -1,5 +1,0 @@
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="ResourceName">
-    <solid android:color="@color/public_color_E5E5E5"></solid>
-</shape>

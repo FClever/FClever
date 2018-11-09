@@ -1,1 +1,0 @@
-include ':app', ':CommonSDK', ':CommonService', ':CommonRes', ':arms-autolayout',  ':hnhczn'
